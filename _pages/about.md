@@ -38,7 +38,7 @@ ultrasound images using deep learning and computer vision. Prior to
 my current role, I held a Postdoctoral Research Fellowship at the 
 [NEOPATH Research Group](https://www.neopath.org.uk/), University of 
 Sheffield, and a Lectureship in Computer Science at the 
-[University of West London](https://www.uwl.ac.uk/). 
+University of West London.
 
 I am a Fellow of the Higher Education Academy and an awardee of the Royal Academy of Engineering Frontiers programme.
 
