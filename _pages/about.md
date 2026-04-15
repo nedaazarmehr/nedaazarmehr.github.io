@@ -13,8 +13,9 @@ profile:
     <p>2 Whitham Rd,</p>
     <p>Sheffield, S10 2AH</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+
 social: true # includes social icons at the bottom of the page
+selected_papers: true # includes a list of papers marked as "selected={true}"
 
 announcements:
   enabled: false # includes a list of news items
