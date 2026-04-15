@@ -28,7 +28,9 @@ latest_posts:
 ---
 I am an Assistant Professor in Data Science and AI at the 
 [Information School](https://www.sheffield.ac.uk/is), University of 
-Sheffield. I completed my PhD in Computer Science, with a focus on 
+Sheffield. 
+
+I completed my PhD in Computer Science, with a focus on 
 Artificial Intelligence, at the University of Lincoln in collaboration 
 with the National Heart and Lung Institute, Imperial College London. 
 My doctoral research focused on automated interpretation of cardiac 
@@ -36,5 +38,7 @@ ultrasound images using deep learning and computer vision. Prior to
 my current role, I held a Postdoctoral Research Fellowship at the 
 [NEOPATH Research Group](https://www.neopath.org.uk/), University of 
 Sheffield, and a Lectureship in Computer Science at the 
-[University of West London](https://www.uwl.ac.uk/). I am a Fellow of the Higher Education Academy and an awardee of the Royal Academy of Engineering Frontiers programme.
+[University of West London](https://www.uwl.ac.uk/). 
+
+I am a Fellow of the Higher Education Academy and an awardee of the Royal Academy of Engineering Frontiers programme.
 
