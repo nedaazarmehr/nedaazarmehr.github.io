@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Bio
 permalink: /
 subtitle: Assistant Professor in Data Science and AI, @<a href='https://www.sheffield.ac.uk'>The University of Sheffield</a>.
 
@@ -15,6 +15,7 @@ profile:
 
 
 social: true # includes social icons at the bottom of the page
+
 selected_papers: true # includes a list of papers marked as "selected={true}"
 
 announcements:
