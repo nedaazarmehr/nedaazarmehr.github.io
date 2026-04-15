@@ -4,7 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-- attention-integration-yolov9
-- DARTS_echoview_classification
+- nedaazarmehr/attention-integration-yolov9
+- nedaazarmehr/DARTS_echoview_classification
 
 
