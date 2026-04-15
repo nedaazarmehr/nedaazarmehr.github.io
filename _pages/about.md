@@ -6,7 +6,7 @@ subtitle: Assistant Professor in Data Science and AI, @<a href='https://www.shef
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Head_Neda.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>150, The Wave</p>
