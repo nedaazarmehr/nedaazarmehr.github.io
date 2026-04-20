@@ -8,18 +8,19 @@ nav_order: 6
 calendar: true
 ---
 
-# The University of Sheffield
+## <span style="color: var(--global-theme-color); font-size: 1.2rem;">The University of Sheffield</span>
 
 - Data Mining and AI
 - Big Data Analytics
 - Building AI Applications
-  
-# Previous Teaching
+
+## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Previous Teaching</span>
 
 - Artificial Intelligence
 - Responsible AI
-- Algorithm and Data types
+- Algorithms and Data Types
 - Theory of Computation
+
 
 
 {% include courses.liquid %}
