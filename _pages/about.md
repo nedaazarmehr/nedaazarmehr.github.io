@@ -5,8 +5,9 @@ permalink: /
 subtitle: Assistant Professor in Data Science and AI, @<a href='https://www.sheffield.ac.uk'>The University of Sheffield</a>.
 
 profile:
-  align: right
+  align: left
   image: Head_Neda.png
+  image_width: 150px
   image_circular: true # crops the image to make it circular
   address: >
     <p>150, The Wave</p>
