@@ -8,6 +8,18 @@ nav_order: 6
 calendar: true
 ---
 
+## University of Sheffield
+
+- Data Mining and AI
+- Big Data Analytics
+- Building Applications of AI
+
+## Previous Teaching
+
+- Artificial Intelligence
+- Responsible AI
+- Algorithms and Data Types
+
 {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 
 {% include courses.liquid %}
