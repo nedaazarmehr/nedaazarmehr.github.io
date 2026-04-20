@@ -8,7 +8,7 @@ nav_order: 6
 calendar: true
 ---
 
-## University of Sheffield
+## The University of Sheffield
 
 - Data Mining and AI
 - Big Data Analytics
