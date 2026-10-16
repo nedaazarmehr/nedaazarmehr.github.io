@@ -29,24 +29,18 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am an Assistant Professor in Data Science and AI at the 
-Information School, University of Sheffield. 
 
-My research focuses on developing artificial intelligence (AI) methods, particularly computer vision,
-deep learning, and large language models (LLMs), for medical imaging and multimodal clinical data analysis.
-My work aims to automate time-consuming clinical workflows, improve the efficiency and
-accuracy of medical image interpretation, and develop predictive models for disease prognosis, 
-treatment response, and clinical decision support.
+I am an Assistant Professor in Data Science and AI at the Information School, University of Sheffield.
+My research focuses on developing artificial intelligence methods, particularly computer vision,
+deep learning, and large language models, for medical imaging and multimodal clinical data analysis. 
+My work aims to automate time-consuming clinical workflows, improve the efficiency and accuracy of medical image interpretation, 
+and develop predictive models for disease prognosis, treatment response, and clinical decision support.
 
-I completed my PhD in Computer Science, with a focus on 
-Artificial Intelligence, at the University of Lincoln in collaboration 
-with the National Heart and Lung Institute, Imperial College London. 
-My doctoral research focused on automated interpretation of cardiac 
-ultrasound images using deep learning and computer vision. Prior to 
-my current role, I held a Postdoctoral Research Fellowship at the 
-[NEOPATH Research Group](https://www.neopath.org.uk/), University of 
-Sheffield, and a Lectureship in Computer Science at the 
-University of West London.
+I completed my PhD in Computer Science, with a focus on Artificial Intelligence,
+at the University of Lincoln in collaboration with the National Heart and Lung Institute, Imperial College London. 
+My doctoral research focused on automated interpretation of cardiac ultrasound images using deep learning and computer vision.
+Prior to my current role, I held a Postdoctoral Research Fellowship at the [NEOPATH Research Group](https://www.neopath.org.uk/), University of 
+Sheffield, and a Lectureship in Computer Science at the University of West London.
 
 I have published research in international peer-reviewed journals and conferences and
 actively contribute to the wider research community through peer review and research funding assessment.
