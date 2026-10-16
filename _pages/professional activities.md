@@ -28,7 +28,8 @@ calendar: true
 - Medical Imaging with Deep Learning (MIDL)
 - Medical Image Understanding and Analysis (MIUA)
 
- ## <span style="color: var(--global-theme-color); font-size: 1.2rem;"> Doctoral Examination and Assessment</span>
+ ## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Doctoral Examination and Assessment</span>
+ 
 - PhD Examiner — Two doctoral thesis examinations (2024–2025)
 - PhD Confirmation and MPhil-to-PhD Transfer Examiner — Two doctoral progression assessments (2023–2025).
   
