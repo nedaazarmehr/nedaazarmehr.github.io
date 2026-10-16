@@ -10,7 +10,7 @@ calendar: true
 
 ## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Research Grant and Award Peer Review</span>
 
-- Great Ormond Street Hospital Children's Charity (2026) — Programme Grants Expert Advisory Group Member
+- Great Ormond Street Hospital Children's Charity- GOSH (2026) — Programme Grants Expert Advisory Group Member
 - Royal Academy of Engineering (2026) — Expert Reviewer (four applications reviewed).
 - Yorkshire Cancer Research (2025)
 
