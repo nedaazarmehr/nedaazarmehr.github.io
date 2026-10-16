@@ -30,7 +30,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 I am an Assistant Professor in Data Science and AI at the 
-[Information School](https://www.sheffield.ac.uk/is), University of 
+Information School, University of 
 Sheffield. 
 
 I completed my PhD in Computer Science, with a focus on 
