@@ -1,23 +1,29 @@
+
 ---
 layout: page
 permalink: /professional-activities/
-title: professional-activities
-description: 
+title: Professional Activities
+description: Academic service and professional activities
 nav: true
 nav_order: 3
-calendar: true
 ---
 
-## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Research Grant and Award Peer Review</span>
+## Research Grant and Award Peer Review
 
-- Royal Academy of Engineering (2026) Expert Reviewer, Reviewed four award applications (2026)
-- Great Ormond Street Hospital Children's Charity (GOSH Charity) (2026) –  Expert Reviewer and Programme Grants Expert Advisory Group (EAG) Member
-- Yorkshire Cancer Research (2025)
+- **Royal Academy of Engineering (2026)** — Expert Reviewer, Bhattacharyya Award (four applications reviewed).
+- **Yorkshire Cancer Research (2025)** — External Research Grant Reviewer, Sheffield Pioneers Fund.
 
-## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Journal Peer Review</span>
+## Journal Peer Review
 
+- *Computers in Biology and Medicine*
+- *PLOS ONE*
 
-## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Conference Peer Review</span>
+## Conference Peer Review
 
+- Medical Imaging with Deep Learning (MIDL)
+- Medical Image Understanding and Analysis (MIUA)
 
-## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Professional Memberships</span>
+## Professional Memberships
+
+- Fellow of the Higher Education Academy (FHEA)
+- Member, Institute of Electrical and Electronics Engineers (IEEE)
