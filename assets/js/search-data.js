@@ -24,11 +24,11 @@ ninja.data = [{
             window.location.href = "/repositories/";
           },
         },{id: "nav-professional-activities",
-          title: "professional-activities",
+          title: "professional activities",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/professional-activities/";
+            window.location.href = "/professional%20activities/";
           },
         },{id: "nav-teaching",
           title: "teaching",
