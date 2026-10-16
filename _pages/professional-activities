@@ -21,7 +21,3 @@ calendar: true
 
 
 ## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Professional Memberships</span>
-
-
-
-{% include courses.liquid %}
