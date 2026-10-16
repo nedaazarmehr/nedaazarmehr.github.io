@@ -1,0 +1,27 @@
+---
+layout: page
+permalink: /professional-activities/
+title: professional-activities
+description: 
+nav: true
+nav_order: 6
+calendar: true
+---
+
+## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Research Grant and Award Peer Review</span>
+
+- Royal Academy of Engineering (2026) Expert Reviewer, Reviewed four award applications (2026)
+- Great Ormond Street Hospital Children's Charity (GOSH Charity) (2026) –  Expert Reviewer and Programme Grants Expert Advisory Group (EAG) Member
+- Yorkshire Cancer Research (2025)
+
+## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Journal Peer Review</span>
+
+
+## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Conference Peer Review</span>
+
+
+## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Professional Memberships</span>
+
+
+
+{% include courses.liquid %}
