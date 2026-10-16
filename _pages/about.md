@@ -39,6 +39,7 @@ and develop predictive models for disease prognosis, treatment response, and cli
 I completed my PhD in Computer Science, with a focus on Artificial Intelligence,
 at the University of Lincoln in collaboration with the National Heart and Lung Institute, Imperial College London. 
 My doctoral research focused on automated interpretation of cardiac ultrasound images using deep learning and computer vision.
+
 Prior to my current role, I held a Postdoctoral Research Fellowship at the [NEOPATH Research Group](https://www.neopath.org.uk/), University of 
 Sheffield, and a Lectureship in Computer Science at the University of West London.
 
