@@ -17,7 +17,7 @@ calendar: true
 ## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Journal Peer Review</span>
 
 - Computers in Biology and Medicine
-- journal, Artificial Intelligence Review
+- Artificial Intelligence Review
 - PLOS ONE
 - IEEE Access
 - International Journal of Imaging Systems and Technology
