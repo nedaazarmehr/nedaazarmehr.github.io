@@ -17,7 +17,11 @@ calendar: true
 ## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Journal Peer Review</span>
 
 - Computers in Biology and Medicine
+- journal, Artificial Intelligence Review
 - PLOS ONE
+- IEEE Access
+- International Journal of Imaging Systems and Technology
+- Analyst (Royal Society of Chemistry)
   
 ## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Conference Peer Review</span>
 
@@ -27,4 +31,5 @@ calendar: true
 ## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Professional Memberships</span>
 
 - Fellow of the Higher Education Academy (FHEA)
+- International Continence Society (ICS) Member
 - Member, Institute of Electrical and Electronics Engineers (IEEE)
