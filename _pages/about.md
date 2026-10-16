@@ -30,8 +30,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 I am an Assistant Professor in Data Science and AI at the 
-Information School, University of 
-Sheffield. 
+Information School, University of Sheffield. 
+
+My research focuses on developing artificial intelligence methods, particularly computer vision, deep learning, and large language models, for medical image analysis and multimodal clinical data. 
+My work aims to automate time-consuming clinical workflows, reduce medical image interpretation time, improve diagnostic accuracy, and develop predictive models for disease prognosis, treatment response, and clinical decision support.
 
 I completed my PhD in Computer Science, with a focus on 
 Artificial Intelligence, at the University of Lincoln in collaboration 
@@ -42,6 +44,8 @@ my current role, I held a Postdoctoral Research Fellowship at the
 [NEOPATH Research Group](https://www.neopath.org.uk/), University of 
 Sheffield, and a Lectureship in Computer Science at the 
 University of West London.
+
+I have published research in international peer-reviewed journals and conferences and actively contribute to the wider research community through peer review and research funding assessment. I serve as a reviewer for scientific journals, international conferences, and research funding programmes, including those administered by UK Research and Innovation (UKRI) and the Royal Academy of Engineering.
 
 I am a Fellow of the Higher Education Academy and an awardee of the Royal Academy of Engineering Frontiers programme.
 
