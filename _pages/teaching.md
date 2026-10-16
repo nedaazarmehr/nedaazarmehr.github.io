@@ -21,7 +21,8 @@ BSc Data Science
 MSc Artificial Intelligence:
 - Artificial Intelligence
 - Responsible AI
-BSc Computer Science & BSc Cyber Security
+  
+BSc Computer Science & BSc Cyber Security:
 - Algorithms and Data Types
 - Theory of Computation
 
