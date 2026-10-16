@@ -1,8 +1,8 @@
 
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /professional-activities/
+title: professional-activities
 description: 
 nav: true
 nav_order: 4
