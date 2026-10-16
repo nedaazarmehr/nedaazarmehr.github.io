@@ -10,8 +10,9 @@ nav_order: 3
 
 ## Research Grant and Award Peer Review
 
-- **Royal Academy of Engineering (2026)** — Expert Reviewer, Bhattacharyya Award (four applications reviewed).
-- **Yorkshire Cancer Research (2025)** — External Research Grant Reviewer, Sheffield Pioneers Fund.
+- **Great Ormond Street Hospital Children's Charity (2026)** — Programme Grants Expert Advisory Group Member
+- **Royal Academy of Engineering (2026)** — Expert Reviewer (four applications reviewed).
+- **Yorkshire Cancer Research (2025)** 
 
 ## Journal Peer Review
 
