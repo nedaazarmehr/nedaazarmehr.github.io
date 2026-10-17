@@ -32,7 +32,7 @@ calendar: true
 - Special Session Co-organiser- Medical Image Understanding and Analysis (MIUA 2025), University of Leeds, UK.
 “Multimodal Frameworks in Healthcare Diagnostics” 
 
- ## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Doctoral Examination</span>
+## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Doctoral Examination</span>
  
 - PhD Examiner — Two doctoral thesis examinations (2024–2025)
 - PhD Confirmation and MPhil-to-PhD Transfer Examiner — Two doctoral progression assessments (2023–2025).
