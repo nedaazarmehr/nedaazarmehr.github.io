@@ -40,5 +40,6 @@ calendar: true
 ## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Professional Memberships</span>
 
 - Fellow of the Higher Education Academy (FHEA)
+- Royal Academy of Engineering Awardee, Excellence Community Member
 - International Continence Society (ICS) Member
 - Member, Institute of Electrical and Electronics Engineers (IEEE)
