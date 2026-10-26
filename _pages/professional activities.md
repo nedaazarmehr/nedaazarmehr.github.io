@@ -21,9 +21,9 @@ calendar: true
 
 - ePoster Presentation (2026) — Automated Cough Detection for Quality Assessment in Urodynamics Using a Rule-Based Approach: Towards an Artificial Intelligence Guided Quality Check. International Continence Society (ICS) Annual Meeting, Maastricht, Netherlands. 
 
-- Conference Presentation (2019) — *Automated Segmentation of Left Ventricle in 2D Echocardiography Using Deep Learning. Medical Imaging with Deep Learning (MIDL), June 2019. 
+- Conference Presentation (2019) — Automated Segmentation of Left Ventricle in 2D Echocardiography Using Deep Learning. Medical Imaging with Deep Learning (MIDL), June 2019. 
 
-- Conference Presentation (2019) — *Segmentation of Left Ventricle in 2D Echocardiography Using Deep Learning. Medical Image Understanding and Analysis (MIUA), Liverpool, UK, July 2019.
+- Conference Presentation (2019) — Segmentation of Left Ventricle in 2D Echocardiography Using Deep Learning. Medical Image Understanding and Analysis (MIUA), Liverpool, UK, July 2019.
 
 ## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Conference Organisation</span>
 - Special Session Co-organiser- Medical Image Understanding and Analysis (MIUA 2025), University of Leeds, UK.
