@@ -8,6 +8,24 @@ nav_order: 4
 calendar: true
 ---
 
+
+## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Keynote and Invited Talks</span>
+
+- **Keynote Speaker (2026)** — *AI in Medical Imaging: So Near and Yet So Far*. Interpreting Medical Images (IMI) Conference, University of Sheffield, UK, September 2026. [Conference](https://lorenzosartori93.wordpress.com/imi-conference/).
+
+- **Invited Speaker (2023)** — *Automated Echocardiographic Image Interpretation Using Artificial Intelligence*. IEEE Women in Engineering, UK and Ireland Ambassadors' Scheme Early Career Talks. [Event](https://www.ieee-ukandireland.org/watch-again-ieee-wie-uki-ambassadors-scheme-early-career-talk-9/).
+
+## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Selected Conference Presentations</span>
+
+- **Oral Presentation (2026)** — *Defining Novel MRI-Derived Pelvic Floor Morphological Biomarkers for Machine Learning-Assisted Diagnosis of Urinary Incontinence in Women*. International Continence Society (ICS) Annual Meeting, Maastricht, Netherlands. [Abstract](https://www.ics-eus.org/2026/abstract/324).
+
+- **ePoster Presentation (2026)** — *Automated Cough Detection for Quality Assessment in Urodynamics Using a Rule-Based Approach: Towards an Artificial Intelligence Guided Quality Check*. International Continence Society (ICS) Annual Meeting, Maastricht, Netherlands. [Abstract](https://www.ics.org/2026/abstract/570).
+
+- **Conference Presentation (2019)** — *Automated Segmentation of Left Ventricle in 2D Echocardiography Using Deep Learning*. Medical Imaging with Deep Learning (MIDL), June 2019. [Abstract](https://openreview.net/forum?id=Sye8klvmcN).
+
+- **Conference Presentation (2019)** — *Segmentation of Left Ventricle in 2D Echocardiography Using Deep Learning*. Medical Image Understanding and Analysis (MIUA), Liverpool, UK, July 2019.
+
+
 ## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Research Grant and Award Peer Review</span>
 
 - Great Ormond Street Hospital Children's Charity- GOSH (2026) — Programme Grants Expert Advisory Group Member
