@@ -11,19 +11,19 @@ calendar: true
 
 ## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Keynote and Invited Talks</span>
 
-- **Keynote Speaker (2026)** — *AI in Medical Imaging: So Near and Yet So Far*. Interpreting Medical Images (IMI) Conference, University of Sheffield, UK, September 2026. 
+- Keynote Speaker (2026) — AI in Medical Imaging: So Near and Yet So Far. Interpreting Medical Images (IMI) Conference, University of Sheffield, UK, September 2026. 
 
-- **Invited Speaker (2023)** — *Automated Echocardiographic Image Interpretation Using Artificial Intelligence*. IEEE Women in Engineering, UK and Ireland Ambassadors' Scheme Early Career Talks.
+- Invited Speaker (2023) — Automated Echocardiographic Image Interpretation Using Artificial Intelligence. IEEE Women in Engineering, UK and Ireland Ambassadors' Scheme Early Career Talks.
 
 ## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Selected Conference Presentations</span>
 
-- **Oral Presentation (2026)** — *Defining Novel MRI-Derived Pelvic Floor Morphological Biomarkers for Machine Learning-Assisted Diagnosis of Urinary Incontinence in Women*. International Continence Society (ICS) Annual Meeting, Maastricht, Netherlands. [Abstract](https://www.ics-eus.org/2026/abstract/324).
+- Oral Presentation (2026) — Defining Novel MRI-Derived Pelvic Floor Morphological Biomarkers for Machine Learning-Assisted Diagnosis of Urinary Incontinence in Women. International Continence Society (ICS) Annual Meeting, Maastricht, Netherlands. [Abstract](https://www.ics-eus.org/2026/abstract/324).
 
-- **ePoster Presentation (2026)** — *Automated Cough Detection for Quality Assessment in Urodynamics Using a Rule-Based Approach: Towards an Artificial Intelligence Guided Quality Check*. International Continence Society (ICS) Annual Meeting, Maastricht, Netherlands. 
+- ePoster Presentation (2026) — Automated Cough Detection for Quality Assessment in Urodynamics Using a Rule-Based Approach: Towards an Artificial Intelligence Guided Quality Check. International Continence Society (ICS) Annual Meeting, Maastricht, Netherlands. 
 
-- **Conference Presentation (2019)** — *Automated Segmentation of Left Ventricle in 2D Echocardiography Using Deep Learning*. Medical Imaging with Deep Learning (MIDL), June 2019. 
+- Conference Presentation (2019) — *Automated Segmentation of Left Ventricle in 2D Echocardiography Using Deep Learning. Medical Imaging with Deep Learning (MIDL), June 2019. 
 
-- **Conference Presentation (2019)** — *Segmentation of Left Ventricle in 2D Echocardiography Using Deep Learning*. Medical Image Understanding and Analysis (MIUA), Liverpool, UK, July 2019.
+- Conference Presentation (2019) — *Segmentation of Left Ventricle in 2D Echocardiography Using Deep Learning. Medical Image Understanding and Analysis (MIUA), Liverpool, UK, July 2019.
 
 ## <span style="color: var(--global-theme-color); font-size: 1.2rem;">Conference Organisation</span>
 - Special Session Co-organiser- Medical Image Understanding and Analysis (MIUA 2025), University of Leeds, UK.
